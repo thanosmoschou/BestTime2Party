@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639211684 source:c:\users\anatoliko\desktop\besttime2partyproject\besttime2party.c
+	<stdio.h>
+	<string.h>
+	"genlib.h"
+	"simpio.h"
+
